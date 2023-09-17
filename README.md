@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logeshwar</h1>
 <h3 align="center">A self-taught developer with an interest in web devlopment</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logeshwars&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapranes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logeshwars&label=Profile%20views&color=0e75b6&style=flat" alt="logeshwars" /> </p>
 
 - 🔭 I’m currently **Developing My Skills**
 - :desktop_computer: I'm currently working on  web app development
