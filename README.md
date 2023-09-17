@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logeshwar</h1>
-<h3 align="center">Student. A self-taught developer with an
-interest in Computer Science.</h3>
+<h3 align="center">A self-taught developer with an interest in web devlopment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanapranes&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapranes" /> </p>
 
@@ -8,7 +7,7 @@ interest in Computer Science.</h3>
 - :desktop_computer: I'm currently working on  web app development
 - :book: I'm currently learning full stack,docker,react.js,node.js
 
-- 📫 How to reach me **logeshwars@gmail.com**
+- 📫 How to reach me **logeshwars15@gmail.com**
 
 
 - ⚡ **It's time to shine**
